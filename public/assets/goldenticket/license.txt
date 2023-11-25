@@ -1,0 +1,11 @@
+Model Information:
+* title:	Golden Ticket
+* source:	https://sketchfab.com/3d-models/golden-ticket-e4672f8d1fea41829301a93a4e67bd48
+* author:	Lucia Criscuolo (https://sketchfab.com/Neruth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Golden Ticket" (https://sketchfab.com/3d-models/golden-ticket-e4672f8d1fea41829301a93a4e67bd48) by Lucia Criscuolo (https://sketchfab.com/Neruth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Soccer Stadium 1:1 Scale
+* source:	https://sketchfab.com/3d-models/soccer-stadium-11-scale-b21e4e42c9b3487eaa9595dfa5f9af6b
+* author:	TetsuoTetsuo (https://sketchfab.com/TetsuoTetsuo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Soccer Stadium 1:1 Scale" (https://sketchfab.com/3d-models/soccer-stadium-11-scale-b21e4e42c9b3487eaa9595dfa5f9af6b) by TetsuoTetsuo (https://sketchfab.com/TetsuoTetsuo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

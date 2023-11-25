@@ -1,0 +1,11 @@
+Model Information:
+* title:	tennista +palla
+* source:	https://sketchfab.com/3d-models/tennista-palla-92de6dd75f7648c1bfaae8a8b91e2624
+* author:	rosaliarenda (https://sketchfab.com/rosaliarenda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "tennista +palla" (https://sketchfab.com/3d-models/tennista-palla-92de6dd75f7648c1bfaae8a8b91e2624) by rosaliarenda (https://sketchfab.com/rosaliarenda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

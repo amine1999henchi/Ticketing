@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boxer
+* source:	https://sketchfab.com/3d-models/boxer-84767168720948b38728ff78ee6f6090
+* author:	Texel, Inc. (https://sketchfab.com/texel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boxer" (https://sketchfab.com/3d-models/boxer-84767168720948b38728ff78ee6f6090) by Texel, Inc. (https://sketchfab.com/texel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
